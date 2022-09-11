@@ -1,7 +1,25 @@
 body {
-    background-color: #CDF0EA;
+    background-color:white;
+    margin: 0px;
+    text-align: center;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 }
-
-/* h1{
-    color:#2b4bab ;
-} */
+h1{
+    margin: 0px;
+    font-family: "Sacramento",cursive;
+    font-size: 5.625re;
+}
+.top{
+    background-color:  #CDF0EA;
+    position: relative;
+}
+.psg{
+    color: goldenrod;
+}
+.bottom-cloud{
+    position:absolute;
+}
+.top-cloud{
+    position: relative;
+    left: 300px;
+}
